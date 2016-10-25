@@ -1,0 +1,10 @@
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git\Sistema_Ventas\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git\Sistema_Ventas\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git\Sistema_Ventas\BusinessLogic\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git\Sistema_Ventas\BusinessLogic\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git\Sistema_Ventas\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git\Sistema_Ventas\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git\Sistema_Ventas\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\bitro\Documents\GitHub\git-Sistema_Ventas\Sistema_Ventas\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\bitro\Documents\GitHub\git-Sistema_Ventas\Sistema_Ventas\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\bitro\Documents\GitHub\git-Sistema_Ventas\Sistema_Ventas\BusinessLogic\obj\Debug\BusinessLogic.pdb

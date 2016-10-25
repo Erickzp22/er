@@ -1,0 +1,6 @@
+C:\Users\bitro\Documents\GitHub\git-Sistema_Ventas\Sistema_Ventas\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\bitro\Documents\GitHub\git-Sistema_Ventas\Sistema_Ventas\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\bitro\Documents\GitHub\git-Sistema_Ventas\Sistema_Ventas\DataAccess\bin\Debug\BusinessLogic.dll
+C:\Users\bitro\Documents\GitHub\git-Sistema_Ventas\Sistema_Ventas\DataAccess\bin\Debug\BusinessLogic.pdb
+C:\Users\bitro\Documents\GitHub\git-Sistema_Ventas\Sistema_Ventas\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\bitro\Documents\GitHub\git-Sistema_Ventas\Sistema_Ventas\DataAccess\obj\Debug\DataAccess.pdb
